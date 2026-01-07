@@ -1,6 +1,6 @@
 # 📊 Modelagem de Crédito com Regressão Logística e WOE
 
-Este projeto implementa um **modelo completo de crédito** utilizando **Regressão Logística com Weight of Evidence (WOE)**, seguindo **boas práticas de mercado bancário**. O pipeline contempla desde o tratamento de dados até métricas avançadas de validação, garantindo **robustez, interpretabilidade e auditabilidade**.
+Este projeto implementa um **modelo completo de crédito** utilizando **Regressão Logística com Weight of Evidence (WOE)**, seguindo **boas práticas de mercado bancário**. O pipeline contempla desde o tratamento de dados até métricas avançadas de validação, garantindo **interpretabilidade e auditabilidade**. Os dados desse projeto foram fornecidos por https://www.kaggle.com/.
 
 ---
 
