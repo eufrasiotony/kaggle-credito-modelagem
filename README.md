@@ -68,6 +68,9 @@ Referência:
 * 0.80 – 0.85: muito bom
 * > 0.85: excelente
 
+* AUC Train: 0.8758
+* AUC Test : 0.8773
+
 ### 🔹 KS (Kolmogorov-Smirnov)
 
 Mede a separação máxima entre bons e maus pagadores.
@@ -79,6 +82,8 @@ Referência:
 * 0.40 – 0.50: bom
 * > 0.50: excelente
 
+* KS  Train: 0.6110
+* KS  Test : 0.6075
 ---
 
 ## 🧪 Validações Avançadas
@@ -160,39 +165,17 @@ Um modelo bem-sucedido apresenta:
 * Variáveis com IV relevante
 * Relações monotônicas estáveis
 
----
+Ao analisar o indicadores acima. Podemos anlisar que o modelo apresenta:
 
-## 🏦 Aderência a Padrões Bancários
+* Excelente separação entre bons e maus pagadores.
 
-Este projeto está alinhado com práticas utilizadas por:
-
-* Bancos tradicionais
-* Fintechs de crédito
-* Modelos regulados (IFRS9 / Basileia)
-
-Características:
-
-* Interpretabilidade total
-* Auditável
-* Produção-ready
-
----
-
-## 🚀 Próximos Passos (Extensões Naturais)
-
-* Scorecard (PDO, Odds, Score Base)
-* Pontuação por variável
-* PSI temporal (monitoramento mensal)
-* Seleção automática por IV
-* Rebinning monotônico automático
-* Relatório executivo para comitê
-
+* E que os resultados indicam que o modelo é adequado para apoiar decisões de crédito.
 ---
 
 ## 👤 Autor
 
-Projeto desenvolvido com foco em **modelagem de risco de crédito**, seguindo padrões profissionais de mercado.
+Tony Eufrasio
+Cientista de Dados / Analista de Risco de Crédito
 
 ---
 
-📌 *Este README serve como documentação técnica e executiva do projeto.*
