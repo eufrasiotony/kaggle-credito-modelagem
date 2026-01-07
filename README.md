@@ -165,7 +165,7 @@ Um modelo bem-sucedido apresenta:
 * Variáveis com IV relevante
 * Relações monotônicas estáveis
 
-Ao analisar o indicadores acima. Podemos anlisar que o modelo apresenta:
+Ao analisar os indicadores acima. Podemos anlisar que o modelo apresenta:
 
 * Excelente separação entre bons e maus pagadores.
 
