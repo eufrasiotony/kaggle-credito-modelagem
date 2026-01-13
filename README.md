@@ -17,12 +17,26 @@ Construir um modelo de **classificação binária (inadimplência)** capaz de:
 ## 📁 Estrutura do Projeto
 
 ```
-├── import.py                   # Download do arquivo para scoragem
-├── credit_risk_dataset.csv      # Base de Dados baixada do Kaggle
-├── woe_regressao.py              # Script principal do modelo
-├── scoragem.py                 # Processo para scorar com o modelo que foi criado no woe_regressao.py
-├── credit_risk_dataset_scored.csv        # Base de Dados baixada do Kaggle com score (somente para teste)
-├── README.md                     # Documentação do projeto
+📁 Estrutura do Projeto
+
+├── import.py
+│   └── Script responsável pelo download da base de dados para o processo de scoragem
+│
+├── credit_risk_dataset.csv
+│   └── Base de dados original baixada do Kaggle
+│
+├── woe_regressao.py
+│   └── Script principal do modelo, contendo a lógica de WOE e regressão
+│
+├── scoragem.py
+│   └── Processo de aplicação do modelo treinado para geração do score
+│
+├── credit_risk_dataset_scored.csv
+│   └── Base de dados do Kaggle com score aplicado (utilizada apenas para testes)
+│
+├── README.md
+│   └── Documentação do projeto
+
 ```
 
 ---
