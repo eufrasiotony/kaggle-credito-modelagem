@@ -127,7 +127,7 @@ Referência:
 
 * PSI < 0.10 → estável
 * 0.10 – 0.25 → atenção
-* > 0.25 → instável
+* PSI > 0.25 → instável
 
 * PSI do modelo: 0.0011
 ---
