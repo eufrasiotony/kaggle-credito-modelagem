@@ -252,7 +252,7 @@ for bin_var in bin_vars:
         bin_var,
         "loan_status"
     )
-    print(f"{bin_var}: Monotônica = {mono}")
+    print(f"{bin_vars}: Monotônica = {mono}")
 
 # =========================================================
 # GERAÇÃO DO ARQUIVO .PKL (ARTEFATOS DO MODELO)
